@@ -1,6 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+stack+developer;Developer+by+passion;Learning+Everyday)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+stack+developer;Developer+by+passion;Learning+Everyday)<img align="right"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQybnA3bDB4d2M5MXNtaTVqM2x5cnVyZjZ6OHoyNTRqcjdxbGxhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="200" >
 
-# Hi there 👋, I'm Mutee ur Rehman
+
+# Hi there 👋, I'm Mutee ur Rehman   
 
 💻 Full Stack Developer| Python Developer
 🚀 Creating responsive web apps, websites and automation systems
